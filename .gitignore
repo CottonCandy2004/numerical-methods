@@ -165,5 +165,6 @@ cython_debug/
 .DS_Store
 
 *.code-workspace
-*.pdf
+do.py
+data.pdf
 ./src/results/*
